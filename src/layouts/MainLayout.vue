@@ -28,7 +28,7 @@
         <a
           style="font-size: 25px;"
           class="float-right q-mr-sm"
-          href="https://github.com/sponsors/mayank091193"
+          href="https://github.com/goodluck19970821"
           target="_blank"
           title="Donate"
           ><i class="fas fa-heart" style="color: #eb5daa"></i

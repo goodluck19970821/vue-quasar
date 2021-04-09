@@ -19,7 +19,7 @@ Few Features:
 
 If this helped you, you can contribute to this project by supporting me:
 
-### [💜 Support my open-source work on GitHub](https://github.com/sponsors/mayank091193)
+### [💜 Support my open-source work on GitHub](https://github.com/goodluck19970821)
 
 Please check out my sponsor page.
 
